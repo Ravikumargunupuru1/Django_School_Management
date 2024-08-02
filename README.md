@@ -4,7 +4,7 @@
 
 ### Prerequisites
 Before you begin, ensure you have the following installed:
-- Python (version 3.x)
+- Python (version 3.12.4(current version))
 - pip (Python package installer)
 
 ### Setup Instructions
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 3. **Create a Virtual Environment (Optional but Recommended)**
    - Create a virtual environment by running:
      
-     python -m venv venv
+     python -m venv 'Here give your environment name'env
      
    - Activate the virtual environment:
      - **On Windows:**
